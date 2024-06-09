@@ -1,7 +1,7 @@
 export default function home() {
   return (
-    <div>
-      <h1>Home</h1>
-    </div>
+    <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
+
+    </main>
   );
 }
